@@ -2,7 +2,7 @@
 
 hi, i'm Abel, a passionate full stack web developer and a freelance software engineer, with over seven years of experience building websites and web applications using JavaScript,HTML/CSS,node and modern frameworks to deliver exceptional customer experiences.Spearheaded redesign of company’s several websites and mobile webapps.Adept at contributing to a highly collabrative work environment,finding solutions,and determining customer satisfaction.I’m skilled at problem-solving and communication, with the ability to work effectively in both individual and team settings. Seeking a challenging and rewarding opportunity to leverage my skills and experience to drive business growth and success.
 
-### About me:
+### 🎓About me:
 
 - I love writing code, and building websites
 - collaborated with designers and stakeholders to deliver successful projects
@@ -44,7 +44,7 @@ hi, i'm Abel, a passionate full stack web developer and a freelance software eng
 <br/>
 
 ### 💡 Projects with My Work:
-<b>Notice</b>:these below were some part of my projects which can't show code,because them were related to commercial business.
+<b>Notice</b>:these below were some part of my projects which can't show code,because them were related to commercial business.you can watch my reps about my coding style.
 <br/>
  - mobile web App designed by React.js
 <div style="display: flex;align-items: center;justify-content: space-between;width:500px;">
