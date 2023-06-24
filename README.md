@@ -55,3 +55,15 @@ Notice:these below were some part of my projects which can't show code,because t
   <img src="./mobile_pay.jpg" style="width:160px;height:300px;"/>
 </div>
 
+ - minprogram App designed by minprogram native syntax
+   
+<div style="display: flex;align-items: center;justify-content: space-between;width:500px;">
+  <img src="./mp-4.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mp-3.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mp-2.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mp-1.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+</div>
+
