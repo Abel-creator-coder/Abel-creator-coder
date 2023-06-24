@@ -14,11 +14,6 @@ hi, i'm Abel, a passionate full stack web developer and a freelance software eng
 <br/>
 <br/>
 
-  
- <h4>💼 any work? do reach me ✉️ [Email](mailto:zhanqiangli73@gmail.com)</h4>
- <h4>💬 ask me about anything, i am happy to help;</h4>
-<br/>
-
 ### 📝Languages and Tools:  
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8DD6F9?style=flat-square&logo=html5&logoColor=white" /> 
@@ -44,9 +39,12 @@ hi, i'm Abel, a passionate full stack web developer and a freelance software eng
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+<br/>
+<br/>
+<br/>
 
 ### 💡 Projects with My Work:
-Notice:these below were some part of my projects which can't show code,because them were related to commercial business.
+<b>Notice</b>:these below were some part of my projects which can't show code,because them were related to commercial business.
 <br/>
  - mobile web App designed by React.js
 <div style="display: flex;align-items: center;justify-content: space-between;width:500px;">
@@ -55,3 +53,27 @@ Notice:these below were some part of my projects which can't show code,because t
   <img src="./mobile_pay.jpg" style="width:160px;height:300px;"/>
 </div>
 
+ - minprogram App designed by minprogram native syntax
+   
+<div style="display: flex;align-items: center;justify-content: space-between;width:500px;">
+  <img src="./mp-4.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mp-3.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mp-2.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mp-1.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+</div>
+
+- responsive App including pc and mobile using reactjs\nextjs\taiwindcss
+   
+<div style="display: flex;align-items: center;justify-content: space-between;width:500px;">
+  <img src="./pc-1.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./pc-2.jpg" style="width:300px;height:160px;margin-right:50px;"/>
+</div>
+
+### 📫 Contact Me
+
+ <h4>💼 any work? do reach me ✉️ [Email](mailto:zhanqiangli73@gmail.com)</h4>
+ <h4>💬 ask me about anything, i am happy to help;</h4>
