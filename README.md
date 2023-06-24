@@ -46,4 +46,12 @@ hi, i'm Abel, a passionate full stack web developer and a freelance software eng
 </p>
 
 ### 💡 Projects with My Work:
+Notice:these below were some part of my projects which can't show code,because them were related to commercial business.
+<br/>
+ - mobile web App designed by React.js
+<div style="display: flex;align-items: center;justify-content: space-between;width:500px;">
+  <img src="./mobile_home.jpg" style="width:160px;height:300px;margin-right:50px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./mobile_pay.jpg" style="width:160px;height:300px;"/>
+</div>
 
