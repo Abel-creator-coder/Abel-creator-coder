@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+hi, i'm Abel, a passionate self-taught full stack web developer and a freelance software engineer, with over seven years of experience building websites and web applications using JavaScript,HTML/CSS and modern frameworks to deliver exceptional customer experiences.Spearheaded redesign of company’s several websites and mobile webapps.Adept at contributing to a highly collabrative work environment,finding solutions,and determining customer satisfaction.I’m skilled at problem-solving and communication, with the ability to work effectively in both individual and team settings. Seeking a challenging and rewarding opportunity to leverage my skills and experience to drive business growth and success.
+
+**About me**
+
+- I love writing code, and building websites
+- collaborated with designers and stakeholders to deliver successful projects
+- 
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <!--
 **Abel-dot/Abel-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
